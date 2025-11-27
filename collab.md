@@ -2,6 +2,7 @@
 layout: page
 title: Collaborations
 ---
+- [Dr. Ashutosh Das](https://cvasu.ac.bd/user-profile/108) from the Chattogram Veterinary and Animal Sciences University has joined the project! (2025.11.28)
 - [Dr. Asif Nadeem](https://uvas.edu.pk/institutes/bio-biochemstry/staff/profiles/asif.htm) and [Dr. Tanveer Hussain] from Virtual University of Pakistan- Lahore has joined the project!
 - [Dr Manishi Mukesh](https://nbagr.icar.gov.in/en/manishi-mukesh/) from ICAR-National Bureau of Animal Genetic Resources in India has joined the project!
 - [Nguyen Hoang Thinh](https://www.researchgate.net/profile/Nguyen-Thinh-6) from  Vietnam National University in Vietnam has joined the project!
