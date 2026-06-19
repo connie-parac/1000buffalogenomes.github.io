@@ -72,6 +72,13 @@ Current members of the consortium by country.
 - Dr. Siri Tuk 
 - Dr. Rangsun Parnpai
 
+**Sri Lanka**
+- Dr. Pradeepa Silva
+  
+**Thailand**
+- Dr. Siri Tuk 
+- Dr. Rangsun Parnpai
+- 
 **Turkey**
 - Dr. Emel Özkan Unal
 - Dr. M.İhsan Soysal
