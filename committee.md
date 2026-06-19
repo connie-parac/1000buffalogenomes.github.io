@@ -11,8 +11,6 @@ Current members of the consortium by country.
 
 **Bangladesh**
 - Dr. Ashutosh Das
-- Dr. Gautam Kumar Deb
-
 **Brazil**
 - Dr. Gregório Miguel Ferreira de Camargo
 - Dr. Humberto Tonhati
@@ -58,7 +56,7 @@ Current members of the consortium by country.
 
 **Philippines**
 - Dr. Ester Flores
-- Dr. Paulene Pineda
+- Paulene Pineda
 - Connie Joyce Parac
 
 **Scotland**
