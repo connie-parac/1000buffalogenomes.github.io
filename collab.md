@@ -2,6 +2,7 @@
 layout: page
 title: Collaborations
 ---
+-[Dr. Qingyou Liu]() from South China Agricultural University  has joined the project! (2026.03.25)
 - [Dr. Chitra Ramasamy](https://tanuvas.irins.org/profile/297751) from Tamil Nadu Veterinary and Animal Science in India has joined the project! (2026.02.10)
 - [Dr. Gautam Kumar Deb](https://scholar.google.com/citations?user=-mJvYHYAAAAJ&hl=en) from Bangladesh Livestock Research Institute and [Dr. Ashutosh Das](https://scholar.google.com/citations?user=tlFVNtgAAAAJ&hl=en) from Chattogram Veterinary and Animal Sciences University in Bangladesh have joined the project! (2025.11.28)
 - [Dr. Pawan Singh]() from ICAR-National Dairy Research Institute in India has joined the project!
