@@ -61,14 +61,17 @@ Current members of the consortium by country.
 - Paulene Pineda
 - Connie Joyce Parac
 
-**Thailand**
-- Dr. Siri Tuk 
-- Dr. Rangsun Parnpai
-
 **Scotland**
 - Dr. James Prendergast
 - Dr. Fazeela Arshad
 
+**Sri Lanka**
+- Dr. Pradeepa Silva
+  
+**Thailand**
+- Dr. Siri Tuk 
+- Dr. Rangsun Parnpai
+- 
 **Turkey**
 - Dr. Emel Özkan Unal
 - Dr. M.İhsan Soysal
