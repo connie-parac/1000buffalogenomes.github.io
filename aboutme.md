@@ -87,6 +87,8 @@ Vietnam National University- Dr. Do Duc Luc, Dr. Nguyen Hoang Thinh
 | Virtual University of Pakistan- Lahore | Dr. Tanveer Hussain |
 | **Philippines** |  |
 | Philippine Carabao Center | Connie Joyce Parac<br>Ester Flores<br>Paulene Pineda |
+|**Sri Lanka** |  |
+| University of Peradeniya | Dr. Pradeepa Silva
 | **Thailand** |  |
 | Department of Livestock Development | Dr. Siri Tuk |
 | Suranaree University of Technology | Dr. Rangsun Parnpai |
